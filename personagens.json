@@ -1,0 +1,10 @@
+{
+    "personagens": [
+        { "nome": "Izuku Midoriya", "img": "./'img'/midoriya.jpg" },
+        { "nome": "Shoto Todoroki", "img": "./'img'/shoto.jpg" },
+        { "nome": "Ochaco Uraraka", "img": "./'img'/ochaco.jpg" },
+        { "nome": "Ochaco Uraraka", "img": "./'img'/ochaco.jpg" },
+        { "nome": "Ochaco Uraraka", "img": "./'img'/ochaco.jpg" },
+        { "nome": "Ochaco Uraraka", "img": "./'img'/ochaco.jpg" }
+    ]
+}
